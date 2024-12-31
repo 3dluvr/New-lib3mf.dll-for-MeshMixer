@@ -1,6 +1,8 @@
 # New lib3mf.dll for MeshMixer
 Precompiled lib3mf.dll for MeshMixer which includes a backported patch for CVE-2021-21772, and an updated zlib 1.3.1
 
+Replace your original one at C:\Program Files\Autodesk\Meshmixer\
+
 ---------
 
 CVE-2021-21772: https://talosintelligence.com/vulnerability_reports/TALOS-2020-1226
