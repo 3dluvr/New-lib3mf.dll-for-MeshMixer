@@ -1,7 +1,9 @@
 # New lib3mf.dll for MeshMixer
-Precompiled lib3mf.dll for MeshMixer which includes a backported patch for CVE-2021-21772, and an updated zlib 1.3.1
+Precompiled lib3mf.dll for MeshMixer which includes a backported patch for CVE-2021-21772, and an updated zlib 1.3.1.
 
 Replace your original one at C:\Program Files\Autodesk\Meshmixer\
+
+Source code included, if you desire to compile it yourself.
 
 ---------
 
